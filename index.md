@@ -6,8 +6,6 @@ Espero que seja útil pra muita gente!
 Bons estudos!
 
 ```markdown
-Link para os métodos numéricos:
-
 # Link para os métodos numéricos:
 
 1. [Euler Simples](https://github.com/jc-costa/MetodosNumericos/blob/main/eulerSimples.py)
