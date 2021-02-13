@@ -1,4 +1,4 @@
-<center>## Seja bem vindo(a) à minha página!
+<center>Seja bem vindo(a) à minha página!
 
 Aqui você encontrará um bom material disponível destinado ao estudo dos assuntos abordados na disciplina de Métodos Numéricos Computacionais (IF816EC). 
 
@@ -11,7 +11,7 @@ Bons estudos!
 ```markdown
 # Link para os métodos numéricos:
 
-1. Euler simples - <a href="https://github.com/jc-costa/MetodosNumericos/blob/main/eulerSimples.py">Clique aqui</a>
+1. [Euler Simples](https://github.com/jc-costa/MetodosNumericos/blob/main/eulerSimples.py)
 ```
 
 ### Support or Contact
