@@ -1,6 +1,6 @@
 <center>Seja bem vindo(a) à minha página!
 <br><br>Aqui você encontrará disponível um bom material destinado ao estudo dos assuntos abordados na disciplina de Métodos Numéricos Computacionais (IF816EC).
-<br><br>Como comentários, explico de forma resumida cada método que está disponível aqui.
+<br><br>Nos códigos em forma de comentários, explico de forma resumida cada método que está disponível aqui.
 <br><br>Espero que seja útil pra muita gente!
 <br><br>Bons estudos!
 </center>
