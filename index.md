@@ -8,6 +8,7 @@
 ## Link para os métodos numéricos:
 
 1. <a href="https://github.com/jc-costa/MetodosNumericos/blob/main/eulerSimples.py" target="_blank">Euler Simples</a>
+2. <a href="https://github.com/jc-costa/Metodos-Numericos/blob/main/Runge-Kutta-4-Ordem.py" target="_blank">Método de Runge-Kutta de 4ª Ordem</a>
 
 ### Informações da disciplina:
 
