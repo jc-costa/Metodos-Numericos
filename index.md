@@ -2,7 +2,7 @@
 <br><br>Aqui você encontrará um bom material disponível destinado ao estudo dos assuntos abordados na disciplina de Métodos Numéricos Computacionais (IF816EC).
 <br><br>Como comentários, explico de forma resumida cada método que está disponível aqui.
 <br><br>Espero que seja útil pra muita gente!
-<br><br><Bons estudos!
+<br><br>Bons estudos!
 </center>
 
 # Link para os métodos numéricos:
