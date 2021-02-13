@@ -9,15 +9,14 @@
 
 1. <a href="https://github.com/jc-costa/MetodosNumericos/blob/main/eulerSimples.py" target="_blank">Euler Simples</a>
 
-#### Informações da disciplina:
+### Informações da disciplina:
 
-<b>V. Bibliografia para o aluno<b>
+<b>V. Bibliografia para o aluno</b>
+
 [1] Gilbert Strang, “Differential Equations and Linear Algebra”, Wesley-Cambridge
 Press, 2014
-
 [2] For advanced topics: Gilbert Strang, “Computational Science and Engineering”, Wesley-
 Cambridge Press, 2007
-
 [3] Dennis G. Zill , “A First Course in Differential Equations with Modeling Applications”,
 Engage Learning, 2018
 [4] William E. Boyce, Richard C. DiPrima, and Douglas B. Meade, “Elementary Differential
