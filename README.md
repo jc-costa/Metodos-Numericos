@@ -1,2 +1,2 @@
-# Metodos-Numericos
-Aqui você encontrará a implementação de alguns métodos que resolvem equações diferenciais por aproximação numérica
+# Metodos Numéricos
+Sigam-me no Twitter / Follow me on Twitter: @jcl_c
