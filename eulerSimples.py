@@ -40,7 +40,6 @@ def eulerSimples(x0, y0, h, x):
   
     print("A solução aproximada em x =", x, "é", "%.6f"% yn1) 
 
-
 valores = input("Forneça valores para x0, y0, h, x: ").split()
 x0, y0, h, x = float(valores[0]), float(valores[1]), float(valores[2]), float(valores[3])
 
