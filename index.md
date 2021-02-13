@@ -4,12 +4,10 @@
 <br>Espero que seja útil pra muita gente!</br>
 <br>Bons estudos!</br>
 </center>
-```markdown: kramdown
+
 # Link para os métodos numéricos:
 
 1. [Euler Simples](https://github.com/jc-costa/MetodosNumericos/blob/main/eulerSimples.py)
-
-```
 
 #### Dúvidas, críticas ou sugestões? Me envie um e-mail.
 Email: 
