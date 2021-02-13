@@ -14,7 +14,7 @@ Bons estudos!
 1. [Euler Simples](https://github.com/jc-costa/MetodosNumericos/blob/main/eulerSimples.py)
 ```
 
-### Support or Contact
+## Dúvidas, críticas ou sugestões? Me envie um e-mail.
 Email: 
 1. jefficostau@gmail.com
 2. jclc@cin.ufpe.br
