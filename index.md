@@ -9,10 +9,6 @@
 
 1. <a href="https://github.com/jc-costa/MetodosNumericos/blob/main/eulerSimples.py" target="_blank">Euler Simples</a>
 
-
-[Euler Simples](https://github.com/jc-costa/MetodosNumericos/blob/main/eulerSimples.py){:target="_blank"}
-
-
 #### Dúvidas, críticas ou sugestões? Me envie um e-mail.
 Email: 
 1. jefficostau@gmail.com
