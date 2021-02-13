@@ -9,7 +9,7 @@
 
 1. [Euler Simples](https://github.com/jc-costa/MetodosNumericos/blob/main/eulerSimples.py)
 ```
-1. [Euler Simples](https://github.com/jc-costa/MetodosNumericos/blob/main/eulerSimples.py)
+
 #### Dúvidas, críticas ou sugestões? Me envie um e-mail.
 Email: 
 1. jefficostau@gmail.com
