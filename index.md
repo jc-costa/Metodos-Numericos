@@ -32,9 +32,9 @@ for Electrical Engineers ”, CRC Press, 2013
 
 <b>VI. Outras informações</b>
 1. <a href="https://drive.google.com/file/d/1p5AqOetvaWZeK98PPgQRsTVcozjZhm0P/view" target="_blank">Plano de Ensino</a>
-2. <a href="https://youtube.com/playlist?list=PLUl4u3cNGP63oTpyxCMLKt_JmB0WtSZfG" target="_blank">Vídeos para o livro usado na disciplina
-</a>
+2. <a href="https://youtube.com/playlist?list=PLUl4u3cNGP63oTpyxCMLKt_JmB0WtSZfG" target="_blank">Vídeos para o livro usado na disciplina</a>
 3. <a href="https://drive.google.com/file/d/1kcsW0rrjdfLzoGGj7cRQrCbF7SHcGe8K/view" target="_blank">Resolução das questões do livro</a>
+
 <br>
 <center>
 #### Dúvidas, críticas ou sugestões? Entre em contato comigo.
