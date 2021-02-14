@@ -39,4 +39,4 @@ for Electrical Engineers ”, CRC Press, 2013
 #### Dúvidas, críticas ou sugestões? Entre em contato comigo.
 
 <br><a href="mailto:jclc@cin.ufpe.br?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://wa.me/5581987981044"><img src="https://logodownload.org/wp-content/uploads/2015/04/whatsapp-logo-1.png" class="whatsapp me"></a>
+<a href="https://wa.me/5581987981044"><img src="https://logodownload.org/wp-content/uploads/2015/04/whatsapp-logo-1.png" alt="whatsapp me" width="16" height="16"></a>
