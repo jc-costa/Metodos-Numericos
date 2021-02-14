@@ -38,7 +38,6 @@ for Electrical Engineers ”, CRC Press, 2013
 
 #### Dúvidas, críticas ou sugestões? Me envie um e-mail.
 Email: 
-1. jefficostau@gmail.com
-2. jclc@cin.ufpe.br
+<a href="mailto:jclc@cin.ufpe.br?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 
