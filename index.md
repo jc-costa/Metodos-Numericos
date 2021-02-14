@@ -40,4 +40,4 @@ for Electrical Engineers ”, CRC Press, 2013
 Email: 
 <br><a href="mailto:jclc@cin.ufpe.br?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<script type="text/javascript" wb-number="5581987981044" wb-message="+55 81 9 8798 1044" src="https://lucianobragaweb.github.io/whatsapp-button/whatsapp.js"></script>
+<a href="https://wa.me/5581987981044">Whatsapp Me</a>
