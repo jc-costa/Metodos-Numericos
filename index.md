@@ -36,8 +36,8 @@ for Electrical Engineers ”, CRC Press, 2013
 </a>
 3. <a href="https://drive.google.com/file/d/1kcsW0rrjdfLzoGGj7cRQrCbF7SHcGe8K/view" target="_blank">Resolução das questões do livro</a>
 
-#### Dúvidas, críticas ou sugestões? Me envie um e-mail.
+#### Dúvidas, críticas ou sugestões? Entre em contato comigo.
 Email: 
-<a href="mailto:jclc@cin.ufpe.br?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<br><a href="mailto:jclc@cin.ufpe.br?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-
+<script type="text/javascript" wb-number="5581987981044" wb-message="+55 81 9 8798 1044" src="https://lucianobragaweb.github.io/whatsapp-button/whatsapp.js"></script>
