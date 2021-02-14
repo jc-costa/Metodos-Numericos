@@ -35,7 +35,7 @@ for Electrical Engineers ”, CRC Press, 2013
 2. <a href="https://youtube.com/playlist?list=PLUl4u3cNGP63oTpyxCMLKt_JmB0WtSZfG" target="_blank">Vídeos para o livro usado na disciplina
 </a>
 3. <a href="https://drive.google.com/file/d/1kcsW0rrjdfLzoGGj7cRQrCbF7SHcGe8K/view" target="_blank">Resolução das questões do livro</a>
-
+<br>
 <center>
 #### Dúvidas, críticas ou sugestões? Entre em contato comigo.
 <br><a href="mailto:jclc@cin.ufpe.br?" target="_blank"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
