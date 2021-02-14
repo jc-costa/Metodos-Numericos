@@ -36,7 +36,7 @@ for Electrical Engineers ”, CRC Press, 2013
 3. <a href="https://drive.google.com/file/d/1kcsW0rrjdfLzoGGj7cRQrCbF7SHcGe8K/view" target="_blank">Resolução das questões do livro</a>
 
 <br>
-<center>
+
 #### Dúvidas, críticas ou sugestões? Entre em contato comigo.
 <br><a href="mailto:jclc@cin.ufpe.br?" target="_blank"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://wa.me/5581987981044" target="_blank"><img src="https://logodownload.org/wp-content/uploads/2015/04/whatsapp-logo-1.png" alt="whatsapp me" width="32" height="32"></a>
